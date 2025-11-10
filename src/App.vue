@@ -3,7 +3,8 @@ import Versus from './components/Versus.vue'
 </script>
 
 <template>
-  <Versus/>
+  <h1>TEEEEEEEEEST</h1>
+  <Versus />
 </template>
 
 <style scoped>
